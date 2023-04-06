@@ -1,1 +1,28 @@
-<
+p{
+  color:#58585a;
+  font-style: italic
+}
+ul{
+color:#f1ebdd;
+  font-style: Times New Roman;
+}
+ol{
+color:#edded1;
+  font-style: Times New Roman;
+}
+h1{
+color:#8c895e;
+  font-style: Times New Roman;
+}
+header{
+color: #dbd8d3;
+  font-size: 16px;
+}
+body{
+color:#dbd8d3
+  font-size: 20px;
+}
+footer{
+color: #58585a;
+  font-size: 12px;
+}
